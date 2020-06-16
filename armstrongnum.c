@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int checkArmstrong(int num){
+int checkArmstrong(int num)
+{
 	int tempNumber,rem,sum;
 	tempNumber=num;
 
